@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8zmT0uj4Wx4A/fCQKWaOGsLJCEgsFtq/m2kU2XH7KHZaROnba6+RyGSXcOcBcBY37RJA0cW1Zi4saTnCpqjODw==",
+  "dgSpecHash": "ALTp/5Ei6glKZ8ViTzX4B/7WN/lutcpCBOwSj0Ic3Vwdq9sGyGlCZoMyo9C5iIFUsKqfMN4ev84UD6UI5HUSVA==",
   "success": true,
-  "projectFilePath": "C:\\repo .net\\Demo02\\Demo02\\Demo02.csproj",
+  "projectFilePath": "C:\\repo .net\\Demo02\\Demo02\\MyLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

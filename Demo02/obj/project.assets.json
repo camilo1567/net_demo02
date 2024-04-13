@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repo .net\\Demo02\\Demo02\\Demo02.csproj",
-      "projectName": "Demo02",
-      "projectPath": "C:\\repo .net\\Demo02\\Demo02\\Demo02.csproj",
+      "projectUniqueName": "C:\\repo .net\\Demo02\\Demo02\\MyLibrary.csproj",
+      "projectName": "MyLibrary",
+      "projectPath": "C:\\repo .net\\Demo02\\Demo02\\MyLibrary.csproj",
       "packagesPath": "C:\\Users\\horta\\.nuget\\packages\\",
       "outputPath": "C:\\repo .net\\Demo02\\Demo02\\obj\\",
       "projectStyle": "PackageReference",
