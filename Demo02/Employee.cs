@@ -14,6 +14,11 @@ public abstract class Employee
     {
         return 12000;
     }
+
+    public int GetPaymentDays()
+    {
+        return 30;
+    }
 }
 
 public class Secretary : Employee
@@ -27,5 +32,13 @@ public class Manager : Employee
     public override decimal CalculateMonthlyPayment()
     {
         return 30000;
+    }
+}
+
+public class Developer : Employee
+{
+    public new int GetPaymentDays()
+    {
+        return 20;
     }
 }
